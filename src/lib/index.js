@@ -1,0 +1,1 @@
+import NftCard from './components/NftCard';
